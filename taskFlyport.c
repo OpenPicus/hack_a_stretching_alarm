@@ -37,8 +37,8 @@ char cusHeader[200];
 char cusPath[100];
 int len = 0;
 
-int seconds = 10; //1800
-int afterseconds = 10;
+int seconds = 1800;
+int afterseconds = 300;
 
 void *ranger;
 
@@ -51,7 +51,10 @@ void FlyportTask()
 {
 	vTaskDelay(100);
 	
+	/* EE init */
 	EEInit(EE_ADDR_DEF, HIGH_SPEED, EE_SIZE_DEF);
+
+	/* pin init */
 	IOInit(LED1_Pin,out);
 	IOInit(LED2_Pin,out);
 	
@@ -139,33 +142,40 @@ void FlyportTask()
 			ee_i_d[0] = len;
 			EESaveData(cnt_ee_i, ee_i_d, 1, EE_BYTE);
 			
-			blink(1);		
+			IOPut(LED1_Pin,1);		
 			ParamSet = FALSE;
 		}
 		
 		if(AppConfig.networkType==WF_INFRASTRUCTURE&&WFStatus == CONNECTED)
 		{
-			IOPut(LED1_Pin,1);
 			btt_time = 0;
 			btt_time_0 = TickGetDiv64K();
 			btt_time_1 = 0;
 			
+			/* button condition */
 			while(get(button) && state==IDLE)
 				btt_time_1 = TickGetDiv64K();
-				
+
+			/* button time */
 			btt_time=btt_time_1-btt_time_0;	
-				
+			
+			/* go to SET state */	
 			if(btt_time>1&&btt_time<5)
 				state = SET;
-			/*if(state==TRIGGERED && get(button))
-				state = STOP;*/
+			//if(state==TRIGGERED && get(button))
+			//	state = STOP;
+
+			/* go to TRIGGER state, the alarm is triggered */
 			if(((float)time-(float)starttime)>seconds&&state==ACTIVE)
 				state = TRIGGER;
+
+			/* state machine sniffing routine */
 			state_machine();
-		}	
+		}
 	}
 }
 
+/* state machine of the system/alarm */
 void state_machine()
 {
 	switch(state)
@@ -377,6 +387,7 @@ void state_machine()
 	}
 }	
 
+/* blink routine */
 void blink(int n)
 {
 	int i=0;
