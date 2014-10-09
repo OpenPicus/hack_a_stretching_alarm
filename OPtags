@@ -1,0 +1,394 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ACTIVE	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\taskFlyport.c	8;"	kind:d	line:8	file:
+AN1	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\basicdevices-pro.h	62;"	kind:d	line:62
+AN2	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\basicdevices-pro.h	63;"	kind:d	line:63
+AN_PORTS	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\groveboard-pro.h	77;"	kind:d	line:77
+AN_TYPE	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\groveinterfaces-pro.h	60;"	kind:d	line:60
+ARRAY_SIZE	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\HTTPlib.h	14;"	kind:d	line:14
+An_i	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\analog_in-pro.c	/^const void *An_i = &_An_i;$/;"	kind:v	line:104
+An_i	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\analog_in-pro.c	/^struct An_i$/;"	kind:s	line:54	file:
+An_i_attach	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\analog_in-pro.c	/^static void *An_i_attach (void * _board,void *_sensor,int portnumb)$/;"	kind:f	line:77	file:
+An_i_ctor	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\analog_in-pro.c	/^static void *An_i_ctor (void * _self, va_list *app)$/;"	kind:f	line:60	file:
+An_i_dtor	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\analog_in-pro.c	/^static void An_i_dtor (void * _sensor)$/;"	kind:f	line:67	file:
+An_i_getan_i	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\analog_in-pro.c	/^static float An_i_getan_i (void * _self,va_list *app)$/;"	kind:f	line:86	file:
+BASICDEVICES_PRO_H	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\basicdevices-pro.h	50;"	kind:d	line:50
+BOTH_SHARED	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\groveinterfaces-pro.h	72;"	kind:d	line:72
+Board	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\groveboard-pro.c	/^const void *Board = &_Board;$/;"	kind:v	line:366
+Board	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\groveboard-pro.c	/^struct Board$/;"	kind:s	line:92	file:
+BoardClass	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\grovelib-pro.h	/^struct BoardClass$/;"	kind:s	line:79
+Board_ctor	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\groveboard-pro.c	/^static void *Board_ctor (void * _self, va_list *app)$/;"	kind:f	line:109	file:
+CREATED_201	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\HTTPlib.h	20;"	kind:d	line:20
+D3VR_TYPE	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\groveinterfaces-pro.h	56;"	kind:d	line:56
+D3V_TYPE	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\groveinterfaces-pro.h	57;"	kind:d	line:57
+D5VR_TYPE	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\groveinterfaces-pro.h	58;"	kind:d	line:58
+D5V_TYPE	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\groveinterfaces-pro.h	59;"	kind:d	line:59
+DBG_HTTP_READ	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\HTTPlib.h	12;"	kind:d	line:12
+DBG_HTTP_SEND	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\HTTPlib.h	11;"	kind:d	line:11
+DEBUG_PORTS	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\groveboard-pro.h	79;"	kind:d	line:79
+DIG1	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\basicdevices-pro.h	60;"	kind:d	line:60
+DIG2	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\basicdevices-pro.h	61;"	kind:d	line:61
+DIG_PORTS	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\groveboard-pro.h	80;"	kind:d	line:80
+DOUBLE_PORT	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\groveinterfaces-pro.h	66;"	kind:d	line:66
+DUTY	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\basicdevices-pro.h	70;"	kind:d	line:70
+Dig_io	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\digital_io-pro.c	/^const void *Dig_io = &_Dig_io;$/;"	kind:v	line:165
+Dig_io	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\digital_io-pro.c	/^struct Dig_io$/;"	kind:s	line:54	file:
+Dig_io_attach	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\digital_io-pro.c	/^static void* Dig_io_attach (void * _board,void *_sensor,int n)$/;"	kind:f	line:106	file:
+Dig_io_ctor	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\digital_io-pro.c	/^static void *Dig_io_ctor (void * _self, va_list *app)$/;"	kind:f	line:65	file:
+Dig_io_dtor	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\digital_io-pro.c	/^static void Dig_io_dtor (void * _sensor)$/;"	kind:f	line:90	file:
+Dig_io_get_dig_io	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\digital_io-pro.c	/^static float Dig_io_get_dig_io (void * _self,va_list *app)$/;"	kind:f	line:147	file:
+Dig_io_set_dig_io	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\digital_io-pro.c	/^static int Dig_io_set_dig_io (void * _self,va_list *app)$/;"	kind:f	line:117	file:
+ERR_PORT_ALREADY_USED	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\groveinterfaces-pro.h	77;"	kind:d	line:77
+ERR_WRONG_PORTNUM	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\groveinterfaces-pro.h	76;"	kind:d	line:76
+ERR_WRONG_PORT_TYPE	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\groveinterfaces-pro.h	78;"	kind:d	line:78
+FORBIDDEN_403	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\HTTPlib.h	21;"	kind:d	line:21
+FREQUENCY	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\basicdevices-pro.h	69;"	kind:d	line:69
+FlyportTask	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\taskFlyport.c	/^void FlyportTask()$/;"	kind:f	line:50
+GROVEBOARD_PRO_H	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\groveboard-pro.h	50;"	kind:d	line:50
+GROVEINTERFACES_PRO_H	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\groveinterfaces-pro.h	50;"	kind:d	line:50
+GROVELIB_H	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\grovelib.h	49;"	kind:d	line:49
+GROVELIB_PRO_H	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\grovelib-pro.h	50;"	kind:d	line:50
+GROVE_TIMEOUT	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\basicdevices-pro.h	72;"	kind:d	line:72
+GroveDevicesPowerSupply	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\groveboard-pro.h	/^void GroveDevicesPowerSupply(BOOL enable);$/;"	kind:p	line:61
+GroveDevicesPowerSupply	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\groveboard-pro.c	/^void GroveDevicesPowerSupply(BOOL enable)$/;"	kind:f	line:84
+GroveNest	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\groveboard-pro.h	73;"	kind:d	line:73
+GrovePort	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\groveinterfaces-pro.h	/^}GrovePort;$/;"	kind:t	line:92	typeref:struct:__anon1
+GroveStarted	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\groveboard-pro.c	/^BOOL GroveStarted = FALSE;$/;"	kind:v	line:106
+HTTPCheckAuth	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\HTTPApp.c	/^BYTE HTTPCheckAuth(BYTE* cUser, BYTE* cPass)$/;"	kind:f	line:399
+HTTPExecuteGet	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\HTTPApp.c	/^HTTP_IO_RESULT HTTPExecuteGet(void)$/;"	kind:f	line:62
+HTTPExecutePost	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\HTTPApp.c	/^HTTP_IO_RESULT HTTPExecutePost(void)$/;"	kind:f	line:80
+HTTPNeedsAuth	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\HTTPApp.c	/^BYTE HTTPNeedsAuth(BYTE* cFile)$/;"	kind:f	line:381
+HTTP_Get	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\HTTPlib.c	/^int HTTP_Get(TCP_SOCKET socket, char * host, char * path_data, char * custom_header, char * header, int headersize, char * body, int bodysize, int timeout) \/\/multipli di 10ms come vTaskDelay$/;"	kind:f	line:152
+HTTP_Get	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\HTTPlib.h	/^int HTTP_Get(TCP_SOCKET socket, char * host, char * path_data, char * custom_header, char * header, int headersize, char * body, int bodysize, int timeout);$/;"	kind:p	line:27
+HTTP_GetSimple	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\HTTPlib.c	/^int HTTP_GetSimple(TCP_SOCKET socket, char * host, char * path_data, char * header, int headersize, char * body, int bodysize)$/;"	kind:f	line:178
+HTTP_GetSimple	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\HTTPlib.h	/^int HTTP_GetSimple(TCP_SOCKET socket, char * host, char * path_data, char * header, int headersize, char * body, int bodysize);$/;"	kind:p	line:28
+HTTP_MAX_SIZE	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\HTTPlib.h	16;"	kind:d	line:16
+HTTP_Post	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\HTTPlib.c	/^int HTTP_Post(TCP_SOCKET socket, char * host, char * path, char * custom_header, char * CType, char * data, char * header, int headersize, char * body, int bodysize, int timeout) \/\/multipli di 10ms come vTaskDelay$/;"	kind:f	line:198
+HTTP_Post	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\HTTPlib.h	/^int HTTP_Post(TCP_SOCKET socket, char * host, char * path, char * custom_header, char * CType, char * data, char * header, int headersize, char * body, int bodysize, int timeout);$/;"	kind:p	line:29
+HTTP_PostSimple	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\HTTPlib.c	/^int HTTP_PostSimple(TCP_SOCKET socket, char * host, char * path, char * data, char * header, int headersize, char * body, int bodysize) \/\/multipli di 10ms come vTaskDelay$/;"	kind:f	line:225
+HTTP_PostSimple	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\HTTPlib.h	/^int HTTP_PostSimple(TCP_SOCKET socket, char * host, char * path, char * data, char * header, int headersize, char * body, int bodysize);$/;"	kind:p	line:30
+HTTP_Put	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\HTTPlib.c	/^int HTTP_Put(TCP_SOCKET socket, char * host, char * path, char * custom_header, char * data, char * header, int headersize, char * body, int bodysize, int timeout) \/\/multipli di 10ms come vTaskDelay$/;"	kind:f	line:244
+HTTP_Put	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\HTTPlib.h	/^int HTTP_Put(TCP_SOCKET socket, char * host, char * path, char * custom_header, char * data, char * header, int headersize, char * body, int bodysize, int timeout);$/;"	kind:p	line:31
+HTTP_Read	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\HTTPlib.c	/^int HTTP_Read(TCP_SOCKET socket, char * header, int headersize, char * body, int bodysize, int timeout)$/;"	kind:f	line:68
+HTTP_Read	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\HTTPlib.h	/^int HTTP_Read(TCP_SOCKET socket, char * header, int headersize, char * body, int bodysize, int timeout);$/;"	kind:p	line:37
+HTTP_URLDecode	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\HTTPlib.c	/^void HTTP_URLDecode(char * dest, char * src)$/;"	kind:f	line:323
+HTTP_URLDecode	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\HTTPlib.h	/^void HTTP_URLDecode(char * dest, char * src);$/;"	kind:p	line:35
+HTTP_URLDecodeLen	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\HTTPlib.c	/^int HTTP_URLDecodeLen(char * str)$/;"	kind:f	line:353
+HTTP_URLDecodeLen	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\HTTPlib.h	/^int HTTP_URLDecodeLen(char * str);$/;"	kind:p	line:36
+HTTP_URLEncode	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\HTTPlib.c	/^void HTTP_URLEncode(char * dest, char * src)$/;"	kind:f	line:264
+HTTP_URLEncode	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\HTTPlib.h	/^void HTTP_URLEncode(char * dest, char * src);$/;"	kind:p	line:33
+HTTP_URLEncodeLen	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\HTTPlib.c	/^int HTTP_URLEncodeLen(char * str)$/;"	kind:f	line:297
+HTTP_URLEncodeLen	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\HTTPlib.h	/^int HTTP_URLEncodeLen(char * str);$/;"	kind:p	line:34
+I2C	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\basicdevices-pro.h	64;"	kind:d	line:64
+I2C_PORTS	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\groveboard-pro.h	78;"	kind:d	line:78
+I2C_TYPE	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\groveinterfaces-pro.h	61;"	kind:d	line:61
+IC1	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\input_capture.c	64;"	kind:d	line:64	file:
+IC2	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\input_capture.c	65;"	kind:d	line:65	file:
+IC3	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\input_capture.c	66;"	kind:d	line:66	file:
+IC4	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\input_capture.c	67;"	kind:d	line:67	file:
+IC5	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\input_capture.c	68;"	kind:d	line:68	file:
+IC6	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\input_capture.c	69;"	kind:d	line:69	file:
+ICCON1Rs	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\input_capture.c	/^int *ICCON1Rs [] = {$/;"	kind:v	line:93
+ICCON2Rs	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\input_capture.c	/^int *ICCON2Rs [] = {$/;"	kind:v	line:100
+ICInit	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\input_capture.h	/^void ICInit(BYTE,BYTE,BYTE);$/;"	kind:p	line:53
+ICInit	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\input_capture.c	/^ void ICInit(BYTE ic_module,BYTE active_edge,BYTE doublemodule)$/;"	kind:f	line:266
+ICOff	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\input_capture.h	/^void ICOff(BYTE);$/;"	kind:p	line:54
+ICOff	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\input_capture.c	/^void ICOff(BYTE ic_module)$/;"	kind:f	line:357
+ICOn	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\input_capture.h	/^int ICOn(BYTE,int,unsigned long *);$/;"	kind:p	line:55
+ICOn	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\input_capture.c	/^int ICOn(BYTE ic_module,int time,unsigned long *data)$/;"	kind:f	line:305
+ICPos	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\input_capture.c	/^const BYTE ICPos[] = {$/;"	kind:v	line:108
+ICPos	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\input_capture.c	/^const BYTE ICPos[] = {$/;"	kind:v	line:116
+ICPos	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\input_capture.c	/^const BYTE ICPos[] = {$/;"	kind:v	line:124
+IDLE	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\taskFlyport.c	6;"	kind:d	line:6	file:
+INIT_CORRECT	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\groveinterfaces-pro.h	75;"	kind:d	line:75
+IOInit_	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\input_capture.h	/^void IOInit_(int, int);$/;"	kind:p	line:52
+IOInit_	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\input_capture.c	/^void IOInit_(int io, int putval) $/;"	kind:f	line:231
+Interface	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\groveboard-pro.h	/^struct Interface$/;"	kind:s	line:83
+IoT_Board	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\groveboard-pro.h	72;"	kind:d	line:72
+LED1_Pin	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\groveboard-pro.h	55;"	kind:d	line:55
+LED2_Pin	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\groveboard-pro.h	56;"	kind:d	line:56
+NOT_SHARED	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\groveinterfaces-pro.h	69;"	kind:d	line:69
+NOT_USED	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\groveinterfaces-pro.h	64;"	kind:d	line:64
+OK_200	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\HTTPlib.h	19;"	kind:d	line:19
+OnConnectionFailed	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\WF_Events.c	/^void OnConnectionFailed(UINT8 ev, UINT16 evinfo)$/;"	kind:f	line:15
+OnConnectionPermLost	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\WF_Events.c	/^void OnConnectionPermLost(UINT8 ev, UINT16 evinfo)$/;"	kind:f	line:33
+OnConnectionReestablished	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\WF_Events.c	/^void OnConnectionReestablished(UINT8 ev, UINT16 evinfo)$/;"	kind:f	line:27
+OnConnectionSuccessful	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\WF_Events.c	/^void OnConnectionSuccessful(UINT8 ev, UINT16 evinfo)$/;"	kind:f	line:9
+OnConnectionTempLost	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\WF_Events.c	/^void OnConnectionTempLost(UINT8 ev, UINT16 evinfo)$/;"	kind:f	line:21
+OnScanResult	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\WF_Events.c	/^void OnScanResult(UINT8 ev, UINT16 evinfo)$/;"	kind:f	line:39
+OneWireDecode	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\input_capture.h	/^int OneWireDecode(BYTE,unsigned int,BYTE,unsigned long *);$/;"	kind:p	line:56
+OneWireDecode	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\input_capture.c	/^int OneWireDecode(BYTE ic_module,unsigned int bitone_lenght,BYTE bit_number,unsigned long *data)$/;"	kind:f	line:398
+P1_SHARED	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\groveinterfaces-pro.h	70;"	kind:d	line:70
+P2_SHARED	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\groveinterfaces-pro.h	71;"	kind:d	line:71
+PWM	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\basicdevices-pro.h	68;"	kind:d	line:68
+ParamSet	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\taskFlyport.c	/^BOOL ParamSet = FALSE;$/;"	kind:v	line:20
+PassKey	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\HTTPApp.c	/^static char PassKey[129];$/;"	kind:v	line:48	file:
+Pin1	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\groveinterfaces-pro.h	/^	BYTE Pin1;			\/\/ 	Pin1 number - Association with Flyport pin number (analog channel for analog ports)$/;"	kind:m	line:87	struct:__anon1	access:public
+Pin2	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\groveinterfaces-pro.h	/^	BYTE Pin2;			\/\/	Pin2 number - Association with Flyport pin number (analog channel for analog ports)$/;"	kind:m	line:88	struct:__anon1	access:public
+READ_TIMEOUT	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\HTTPlib.h	18;"	kind:d	line:18
+RPICRs	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\input_capture.c	/^int *RPICRs[]	= {$/;"	kind:v	line:84
+Ranger	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\sonic_ranger.c	/^	const void *Ranger;$/;"	kind:m	line:69	struct:Ranger	file:	access:public
+Ranger	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\sonic_ranger.c	/^const void * Ranger = &_Ranger;$/;"	kind:v	line:211
+Ranger	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\sonic_ranger.c	/^struct Ranger$/;"	kind:s	line:67	file:
+Ranger_attach	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\sonic_ranger.c	/^static void* Ranger_attach (void * _board,void *_sensor,int n)$/;"	kind:f	line:135	file:
+Ranger_configure	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\sonic_ranger.c	/^ static int Ranger_configure (void * _self, va_list *app)$/;"	kind:f	line:152	file:
+Ranger_ctor	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\sonic_ranger.c	/^static void *Ranger_ctor (void * _self, va_list *app)$/;"	kind:f	line:99	file:
+Ranger_dtor	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\sonic_ranger.c	/^static void Ranger_dtor (void * _sensor)$/;"	kind:f	line:112	file:
+Ranger_get	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\sonic_ranger.c	/^static float Ranger_get(void * _self,va_list *app)$/;"	kind:f	line:167	file:
+ReadBatteryLevel	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\groveboard-pro.h	/^float ReadBatteryLevel();$/;"	kind:p	line:64
+ReadBatteryLevel	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\groveboard-pro.c	/^float ReadBatteryLevel()$/;"	kind:f	line:77
+SET	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\taskFlyport.c	7;"	kind:d	line:7	file:
+SINGLE_PORT	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\groveinterfaces-pro.h	65;"	kind:d	line:65
+STOP	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\taskFlyport.c	11;"	kind:d	line:11	file:
+ScanCompleted	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\WF_Events.c	/^BOOL ScanCompleted = FALSE;$/;"	kind:v	line:7
+SensorClass	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\grovelib-pro.h	/^struct SensorClass$/;"	kind:s	line:68
+String_post	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\HTTPApp.c	/^char String_post[String_post_Len];$/;"	kind:v	line:45
+String_post_Len	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\HTTPApp.c	44;"	kind:d	line:44	file:
+TIMEOUT	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\input_capture.c	72;"	kind:d	line:72	file:
+TRIGGER	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\taskFlyport.c	9;"	kind:d	line:9	file:
+TRIGGERED	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\taskFlyport.c	10;"	kind:d	line:10	file:
+Type	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\groveinterfaces-pro.h	/^	BYTE Type;			\/\/	Port type - Type of the port, as in the upper defines$/;"	kind:m	line:90	struct:__anon1	access:public
+Use	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\groveinterfaces-pro.h	/^	BYTE Use;			\/\/	Port usage - Indicates if it's used as single or double sensor, or not used$/;"	kind:m	line:89	struct:__anon1	access:public
+V_BAT_Channel	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\groveboard-pro.h	63;"	kind:d	line:63
+V_GROVE_Disable	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\groveboard-pro.h	60;"	kind:d	line:60
+V_GROVE_Enable	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\groveboard-pro.h	59;"	kind:d	line:59
+V_GROVE_Pin	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\groveboard-pro.h	58;"	kind:d	line:58
+XivelyAPIKey	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\taskFlyport.c	/^char XivelyAPIKey[250];$/;"	kind:v	line:16
+XivelyClient	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\taskFlyport.c	/^TCP_SOCKET XivelyClient = INVALID_SOCKET;$/;"	kind:v	line:18
+XivelyFeedID	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\taskFlyport.c	/^char XivelyFeedID[250];$/;"	kind:v	line:17
+XivelyPort	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\taskFlyport.c	/^char XivelyPort[] = "80";$/;"	kind:v	line:15
+XivelyServer	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\taskFlyport.c	/^char XivelyServer[] = "api.xively.com";$/;"	kind:v	line:14
+_An_i	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\analog_in-pro.c	/^static const struct SensorClass _An_i =$/;"	kind:v	line:93	typeref:struct:SensorClass	file:
+_Board	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\groveboard-pro.c	/^static const struct BoardClass _Board =$/;"	kind:v	line:358	typeref:struct:BoardClass	file:
+_Dig_io	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\digital_io-pro.c	/^static const struct SensorClass _Dig_io =$/;"	kind:v	line:154	typeref:struct:SensorClass	file:
+_IC1Interrupt	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\input_capture.c	/^void __attribute__((interrupt, no_auto_psv)) _IC1Interrupt(void)$/;"	kind:f	line:151
+_IC2Interrupt	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\input_capture.c	/^void __attribute__((interrupt, no_auto_psv)) _IC2Interrupt(void)$/;"	kind:f	line:163
+_IC3Interrupt	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\input_capture.c	/^void __attribute__((interrupt, no_auto_psv)) _IC3Interrupt(void)$/;"	kind:f	line:171
+_IC4Interrupt	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\input_capture.c	/^void __attribute__((interrupt, no_auto_psv)) _IC4Interrupt(void)$/;"	kind:f	line:183
+_IC5Interrupt	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\input_capture.c	/^void __attribute__((interrupt, no_auto_psv)) _IC5Interrupt(void)$/;"	kind:f	line:191
+_IC6Interrupt	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\input_capture.c	/^void __attribute__((interrupt, no_auto_psv)) _IC6Interrupt(void)$/;"	kind:f	line:203
+_Ranger	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\sonic_ranger.c	/^static const struct SensorClass _Ranger =$/;"	kind:v	line:200	typeref:struct:SensorClass	file:
+__HTTPAPP_C	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\HTTPApp.c	42;"	kind:d	line:42	file:
+afterseconds	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\taskFlyport.c	/^int afterseconds = 10;$/;"	kind:v	line:41
+aninext	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\groveboard-pro.c	/^	struct Interface *aninext;$/;"	kind:m	line:101	struct:Board	typeref:struct:Board::Interface	file:	access:public
+anistart	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\groveboard-pro.c	/^	struct Interface *anistart;$/;"	kind:m	line:100	struct:Board	typeref:struct:Board::Interface	file:	access:public
+ap	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\grovelib-pro.c	/^	va_list ap;$/;"	kind:l	line:112
+ap	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\grovelib-pro.c	/^	va_list ap;$/;"	kind:l	line:123
+ap	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\grovelib-pro.c	/^	va_list ap;$/;"	kind:l	line:133
+ap	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\grovelib-pro.c	/^	va_list ap;$/;"	kind:l	line:63
+attach	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\grovelib-pro.h	/^	int (*attach)  (void *,void *,int,int);$/;"	kind:m	line:84	struct:BoardClass	access:public
+attach	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\grovelib-pro.h	/^	void *(*attach) (void *,void *,int);$/;"	kind:m	line:73	struct:SensorClass	access:public
+attachSensorToAnBus	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\analog_in-pro.c	/^struct Interface *	attachSensorToAnBus (void *,int);$/;"	kind:p	line:52	file:
+attachSensorToAnBus	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\groveboard-pro.c	/^struct Interface *	attachSensorToAnBus (void *_board,int n)$/;"	kind:f	line:257
+attachSensorToDigioBus	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\digital_io-pro.c	/^struct Interface *attachSensorToDigioBus(void *,int,int);$/;"	kind:p	line:52	file:
+attachSensorToDigioBus	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\groveboard-pro.c	/^struct Interface *attachSensorToDigioBus(void *_board,int n,int type)$/;"	kind:f	line:199
+attachSensorToDigioBus	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\sonic_ranger.c	/^struct Interface *attachSensorToDigioBus(void *,int,int);$/;"	kind:p	line:62	file:
+attachSensorToI2CBus	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\groveboard-pro.c	/^struct Interface *attachSensorToI2CBus(void *_board,int i2cbus,int add)$/;"	kind:f	line:161
+attachSensorToUartBus	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\groveboard-pro.c	/^struct Interface *attachSensorToUartBus(void *_board,int port,int speed,BYTE module,BYTE interf)$/;"	kind:f	line:304
+attachToBoard	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\grovelib-pro.h	/^int attachToBoard(void *,void *,int);$/;"	kind:p	line:62
+attachToBoard	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\grovelib-pro.c	/^int attachToBoard(void *board,void *sensor,int numb)$/;"	kind:f	line:95
+bff	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\HTTPlib.c	/^	char code[4], bff[505];$/;"	kind:l	line:71
+blink	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\taskFlyport.c	/^void blink(int n)$/;"	kind:f	line:380
+blink	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\taskFlyport.c	/^void blink(int n);$/;"	kind:p	line:25	file:
+board	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\taskFlyport.c	/^	void *board = new(IoT_Board);$/;"	kind:l	line:59
+boardType	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\groveboard-pro.c	/^	int boardType;$/;"	kind:m	line:95	struct:Board	file:	access:public
+btt_time	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\taskFlyport.c	/^DWORD btt_time = 0, btt_time_0 = 0, btt_time_1 = 0;$/;"	kind:v	line:31
+btt_time_0	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\taskFlyport.c	/^DWORD btt_time = 0, btt_time_0 = 0, btt_time_1 = 0;$/;"	kind:v	line:31
+btt_time_1	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\taskFlyport.c	/^DWORD btt_time = 0, btt_time_0 = 0, btt_time_1 = 0;$/;"	kind:v	line:31
+buf	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\WF_Events.c	/^	char buf[8];$/;"	kind:l	line:42
+button	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\taskFlyport.c	/^	void *button = new (Dig_io, IN);$/;"	kind:l	line:63
+class	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\analog_in-pro.c	/^	const void *class;$/;"	kind:m	line:56	struct:An_i	file:	access:public
+class	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\digital_io-pro.c	/^	const void *class;$/;"	kind:m	line:56	struct:Dig_io	file:	access:public
+class	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\groveboard-pro.c	/^	const void *class;$/;"	kind:m	line:94	struct:Board	file:	access:public
+class	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\grovelib-pro.c	/^	const struct BoardClass *class = _class;$/;"	kind:l	line:158
+class	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\grovelib-pro.c	/^	const struct SensorClass *class = _class;$/;"	kind:l	line:180
+cnt	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\HTTPlib.c	/^	int cnt = 0, len = 0, len1=0, len2=0, crlf = 0, i, j;$/;"	kind:l	line:70
+cnt_ee_d	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\taskFlyport.c	/^unsigned int cnt_ee_d=2;$/;"	kind:v	line:47
+cnt_ee_i	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\taskFlyport.c	/^unsigned int cnt_ee_i=0;$/;"	kind:v	line:46
+code	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\HTTPlib.c	/^	char code[4], bff[505];$/;"	kind:l	line:71
+config	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\grovelib-pro.h	/^	int (*config) (void *,va_list *);$/;"	kind:m	line:74	struct:SensorClass	access:public
+configure	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\grovelib-pro.h	/^int configure(void *,...);$/;"	kind:p	line:63
+configure	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\grovelib-pro.c	/^int configure(void *self, ...)$/;"	kind:f	line:110
+cp	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\grovelib-pro.c	/^	const struct SensorClass **cp = self;$/;"	kind:l	line:114
+cp	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\grovelib-pro.c	/^	const struct SensorClass **cp = self;$/;"	kind:l	line:125
+cp	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\grovelib-pro.c	/^	const struct SensorClass **cp = self;$/;"	kind:l	line:135
+crlf	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\HTTPlib.c	/^	int cnt = 0, len = 0, len1=0, len2=0, crlf = 0, i, j;$/;"	kind:l	line:70
+ctor	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\grovelib-pro.h	/^	void *(*ctor) (void *,va_list *);$/;"	kind:m	line:71	struct:SensorClass	access:public
+ctor	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\grovelib-pro.h	/^	void *(*ctor) (void *,va_list *);$/;"	kind:m	line:82	struct:BoardClass	access:public
+cusHeader	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\taskFlyport.c	/^char cusHeader[200];$/;"	kind:v	line:36
+cusPath	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\taskFlyport.c	/^char cusPath[100];$/;"	kind:v	line:37
+d	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\input_capture.c	/^	unsigned long d = 0;$/;"	kind:l	line:402
+data	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\digital_io-pro.c	/^			float data = va_arg(*app, const float);$/;"	kind:l	line:134
+data	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\i2c_devices-pro.c	/^	BYTE data = I2C2Read(1);$/;"	kind:l	line:75
+data	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\input_capture.c	/^	unsigned int data;$/;"	kind:l	line:269
+data	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\sonic_ranger.c	/^	float data = 0;$/;"	kind:l	line:171
+data	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\sonic_ranger.c	/^	float data = 0;$/;"	kind:l	line:85
+data1	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\sonic_ranger.c	/^	unsigned long data1,data2;$/;"	kind:l	line:170
+data2	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\sonic_ranger.c	/^	unsigned long data1,data2;$/;"	kind:l	line:170
+dbg_string	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\taskFlyport.c	/^char dbg_string[250];$/;"	kind:v	line:22
+decode	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\sonic_ranger.c	/^static float decode(unsigned long data1,unsigned long data2)$/;"	kind:f	line:82	file:
+delet_	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\grovelib-pro.h	/^void delet_(void **);$/;"	kind:p	line:61
+delet_	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\grovelib-pro.c	/^void delet_(void **_self)$/;"	kind:f	line:89
+delete	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\grovelib-pro.h	57;"	kind:d	line:57
+delete_	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\grovelib-pro.h	/^void delete_(void *);$/;"	kind:p	line:60
+delete_	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\grovelib-pro.c	/^void delete_(void *_self)$/;"	kind:f	line:79
+dionext	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\groveboard-pro.c	/^	struct Interface *dionext;$/;"	kind:m	line:99	struct:Board	typeref:struct:Board::Interface	file:	access:public
+diostart	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\groveboard-pro.c	/^	struct Interface *diostart;$/;"	kind:m	line:98	struct:Board	typeref:struct:Board::Interface	file:	access:public
+distance	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\taskFlyport.c	/^float distance = 0;$/;"	kind:v	line:28
+distance_zero	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\taskFlyport.c	/^float distance_zero = 150;$/;"	kind:v	line:29
+dtor	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\grovelib-pro.h	/^	void (*dtor) (void *);$/;"	kind:m	line:72	struct:SensorClass	access:public
+dtor	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\grovelib-pro.h	/^	void *(*dtor) (void *);$/;"	kind:m	line:83	struct:BoardClass	access:public
+dtor	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\grovelib-pro.c	/^		(*self)->dtor(self);$/;"	kind:p	line:84	file:
+dummy	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\HTTPApp.c	/^					WORD_VAL dummy;$/;"	kind:l	line:213
+dummy	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\HTTPApp.c	/^					WORD_VAL dummy;$/;"	kind:l	line:289
+dummy	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\HTTPApp.c	/^				WORD_VAL dummy;$/;"	kind:l	line:250
+dummy	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\HTTPApp.c	/^				WORD_VAL dummy;$/;"	kind:l	line:324
+eds_space	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\HTTPlib.c	/^__eds__ char eds_space[HTTP_MAX_SIZE] __attribute__((eds));$/;"	kind:v	line:65
+ee_i_d	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\taskFlyport.c	/^char ee_i_d[2];$/;"	kind:v	line:48
+error	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\sonic_ranger.c	/^	int error = 0;$/;"	kind:l	line:172
+filename	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\HTTPApp.c	/^	BYTE filename[20];$/;"	kind:l	line:83
+flag	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\grovelib-pro.c	/^unsigned char flag;$/;"	kind:v	line:58
+gName	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\grovelib-pro.h	/^	char *(*gName) (const void *);$/;"	kind:m	line:86	struct:BoardClass	access:public
+g_I2CSCL	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\groveboard-pro.c	/^BYTE g_I2CSCL[] = { p26 };	\/\/ pin number 1 of i2c ports$/;"	kind:v	line:69
+g_I2CSDA	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\groveboard-pro.c	/^BYTE g_I2CSDA[] = { p24 };	\/\/ pin number 2 of i2c ports$/;"	kind:v	line:70
+g_MISO	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\groveboard-pro.c	/^BYTE g_MISO[] 	= { uSD_MISO }; \/\/ sd-do$/;"	kind:v	line:63
+g_MOSI	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\groveboard-pro.c	/^BYTE g_MOSI[] 	= { uSD_MOSI };	\/\/ sd-di$/;"	kind:v	line:64
+g_SCK	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\groveboard-pro.c	/^BYTE g_SCK[] 	= { uSD_SCK }; 	\/\/ sd-clk$/;"	kind:v	line:62
+g_SD_CD	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\groveboard-pro.c	/^BYTE g_SD_CD[] 	= { uSD_CD };	\/\/ sd-sw$/;"	kind:v	line:66
+g_SPI_CS	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\groveboard-pro.c	/^BYTE g_SPI_CS[] = { uSD_CS }; 	\/\/ sd-cs$/;"	kind:v	line:65
+g_an	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\groveboard-pro.c	/^BYTE g_an[] ={ 5, 4 };		\/\/ analog channels of analog ports$/;"	kind:v	line:73
+g_d1	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\groveboard-pro.c	/^BYTE g_d1[] = { p13, p15 };	\/\/ pin number 1 of digital ports$/;"	kind:v	line:58
+g_d2	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\groveboard-pro.c	/^BYTE g_d2[] = { p14, p17 };	\/\/ pin number 2 of digital ports$/;"	kind:v	line:59
+get	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\grovelib-pro.h	/^float get(void *, ...);$/;"	kind:p	line:65
+get	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\grovelib-pro.c	/^float get(void *self, ...)$/;"	kind:f	line:131
+get_	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\grovelib-pro.h	/^	float (*get_)(void *,va_list *);$/;"	kind:m	line:76	struct:SensorClass	access:public
+hex	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\HTTPlib.c	/^static char hex[] = {'\\x24','\\x26','\\x2B','\\x2C','\\x2F','\\x3A','\\x3B','\\x3D','\\x3F','\\x40','\\x20','\\x22','\\x3C','\\x3E','\\x23','\\x25','\\x7B','\\x7D','\\x7C','\\x5C','\\x5E','\\x7E','\\x5B','\\x5D','\\x60'};$/;"	kind:v	line:63	file:
+i	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\HTTPlib.c	/^	int cnt = 0, len = 0, len1=0, len2=0, crlf = 0, i, j;$/;"	kind:l	line:70
+i	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\HTTPlib.c	/^	int i=0;$/;"	kind:l	line:267
+i	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\HTTPlib.c	/^	int i=0;$/;"	kind:l	line:301
+i	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\HTTPlib.c	/^	int i=0;$/;"	kind:l	line:326
+i	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\HTTPlib.c	/^	int i=0;$/;"	kind:l	line:357
+i	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\taskFlyport.c	/^	int i=0;$/;"	kind:l	line:382
+i2cnext	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\groveboard-pro.c	/^	struct Interface *i2cnext;$/;"	kind:m	line:97	struct:Board	typeref:struct:Board::Interface	file:	access:public
+i2cstart	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\groveboard-pro.c	/^	struct Interface *i2cstart;$/;"	kind:m	line:96	struct:Board	typeref:struct:Board::Interface	file:	access:public
+ic_module	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\sonic_ranger.c	/^	BYTE ic_module;$/;"	kind:m	line:70	struct:Ranger	file:	access:public
+icflag	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\input_capture.c	/^unsigned char icflag;\/\/input capture flag $/;"	kind:v	line:74
+icvalue	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\input_capture.c	/^unsigned long icvalue;\/\/ICXBUF value$/;"	kind:v	line:75
+inter	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\analog_in-pro.c	/^	struct Interface *inter;$/;"	kind:m	line:57	struct:An_i	typeref:struct:An_i::Interface	file:	access:public
+inter	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\digital_io-pro.c	/^	struct Interface *inter;$/;"	kind:m	line:57	struct:Dig_io	typeref:struct:Dig_io::Interface	file:	access:public
+inter	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\sonic_ranger.c	/^	struct Interface *inter;$/;"	kind:m	line:71	struct:Ranger	typeref:struct:Ranger::Interface	file:	access:public
+isShared	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\groveinterfaces-pro.h	/^	BYTE isShared;		\/\/	Pin sharing - Indicates if the pins of the ports are shared with other ports, like in Arduino UNO Grove shield$/;"	kind:m	line:91	struct:__anon1	access:public
+j	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\HTTPApp.c	/^					int j = 0, j1 = 0;$/;"	kind:l	line:212
+j	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\HTTPApp.c	/^					int j = 0, j1 = 0;$/;"	kind:l	line:288
+j	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\HTTPApp.c	/^				int j = 0, j1 = 0;$/;"	kind:l	line:249
+j	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\HTTPApp.c	/^				int j = 0, j1 = 0;$/;"	kind:l	line:323
+j	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\HTTPlib.c	/^	int cnt = 0, len = 0, len1=0, len2=0, crlf = 0, i, j;$/;"	kind:l	line:70
+j	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\HTTPlib.c	/^	int j=0;$/;"	kind:l	line:269
+j	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\HTTPlib.c	/^	int j=0;$/;"	kind:l	line:327
+j1	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\HTTPApp.c	/^					int j = 0, j1 = 0;$/;"	kind:l	line:212
+j1	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\HTTPApp.c	/^					int j = 0, j1 = 0;$/;"	kind:l	line:288
+j1	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\HTTPApp.c	/^				int j = 0, j1 = 0;$/;"	kind:l	line:249
+j1	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\HTTPApp.c	/^				int j = 0, j1 = 0;$/;"	kind:l	line:323
+k	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\HTTPlib.c	/^	int k=0;$/;"	kind:l	line:268
+k	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\HTTPlib.c	/^	int k=0;$/;"	kind:l	line:302
+k_index	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\HTTPApp.c	/^			int k_index;$/;"	kind:l	line:234
+len	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\HTTPApp.c	/^	int len;$/;"	kind:l	line:84
+len	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\HTTPlib.c	/^	int cnt = 0, len = 0, len1=0, len2=0, crlf = 0, i, j;$/;"	kind:l	line:70
+len	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\taskFlyport.c	/^int len = 0;$/;"	kind:v	line:38
+len1	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\HTTPlib.c	/^	int cnt = 0, len = 0, len1=0, len2=0, crlf = 0, i, j;$/;"	kind:l	line:70
+len2	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\HTTPlib.c	/^	int cnt = 0, len = 0, len1=0, len2=0, crlf = 0, i, j;$/;"	kind:l	line:70
+lenURL	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\HTTPlib.c	/^	int lenURL=lenstr;$/;"	kind:l	line:300
+lenURL	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\HTTPlib.c	/^	int lenURL=lenstr;$/;"	kind:l	line:356
+lenstr	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\HTTPlib.c	/^	int lenstr=strlen(src);$/;"	kind:l	line:266
+lenstr	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\HTTPlib.c	/^	int lenstr=strlen(src);$/;"	kind:l	line:325
+lenstr	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\HTTPlib.c	/^	int lenstr=strlen(str);$/;"	kind:l	line:299
+lenstr	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\HTTPlib.c	/^	int lenstr=strlen(str);$/;"	kind:l	line:355
+limit	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\HTTPlib.c	/^	int limit=sizeof hex;$/;"	kind:l	line:270
+limit	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\HTTPlib.c	/^	int limit=sizeof hex;$/;"	kind:l	line:303
+myData	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\taskFlyport.c	/^char myData[220];$/;"	kind:v	line:34
+new	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\grovelib-pro.c	/^void *new(const void *_class, ...)$/;"	kind:f	line:61
+new_board	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\grovelib-pro.c	/^static void *new_board(const void *,va_list ap);$/;"	kind:p	line:56	file:
+new_board	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\grovelib-pro.c	/^static void *new_board(const void *_class,va_list ap)$/;"	kind:f	line:156	file:
+new_sensor	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\grovelib-pro.c	/^static void *new_sensor(const void *,va_list ap);$/;"	kind:p	line:55	file:
+new_sensor	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\grovelib-pro.c	/^static void *new_sensor(const void *_class,va_list ap)$/;"	kind:f	line:178	file:
+next	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\groveboard-pro.h	/^	struct Interface *next;$/;"	kind:m	line:87	struct:Interface	typeref:struct:Interface::Interface	access:public
+number	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\input_capture.c	/^	BYTE number = bit_number;$/;"	kind:l	line:403
+one_lenght	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\input_capture.c	/^	int one_lenght = (bitone_lenght << 4);$/;"	kind:l	line:404
+p	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\groveboard-pro.c	/^	struct Interface *p;$/;"	kind:l	line:164
+p	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\groveboard-pro.c	/^	struct Interface *p;$/;"	kind:l	line:202
+p	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\groveboard-pro.c	/^	struct Interface *p;$/;"	kind:l	line:260
+p	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\groveboard-pro.c	/^	struct Interface *p;$/;"	kind:l	line:307
+p	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\grovelib-pro.c	/^	void *p = calloc(1, class->size);$/;"	kind:l	line:159
+p	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\grovelib-pro.c	/^	void *p = calloc(1, class->size);$/;"	kind:l	line:181
+port	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\groveboard-pro.h	/^	GrovePort *port;$/;"	kind:m	line:86	struct:Interface	access:public
+pwm_duty	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\digital_io-pro.c	/^	float* pwm_duty;$/;"	kind:m	line:61	struct:Dig_io	file:	access:public
+pwm_frequency	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\digital_io-pro.c	/^	float* pwm_frequency;$/;"	kind:m	line:60	struct:Dig_io	file:	access:public
+pwm_num	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\digital_io-pro.c	/^	BYTE pwm_num;$/;"	kind:m	line:59	struct:Dig_io	file:	access:public
+ranger	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\taskFlyport.c	/^void *ranger;$/;"	kind:v	line:43
+readError	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\grovelib-pro.h	/^unsigned char readError(void);$/;"	kind:p	line:66
+readError	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\grovelib-pro.c	/^unsigned char readError(void)$/;"	kind:f	line:149
+read_register	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\i2c_devices-pro.c	/^BYTE read_register(BYTE address,BYTE regist)$/;"	kind:f	line:68
+request	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\HTTPlib.c	/^	char request[strlen(host)+strlen(path)+strlen(custom_header)+strlen(CType)+strlen(data)+100];$/;"	kind:l	line:200
+request	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\HTTPlib.c	/^	char request[strlen(host)+strlen(path)+strlen(custom_header)+strlen(data)+100];$/;"	kind:l	line:246
+request	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\HTTPlib.c	/^	char request[strlen(host)+strlen(path_data)+strlen(custom_header)+50];$/;"	kind:l	line:154
+resp_Body	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\taskFlyport.c	/^char resp_Body[150], resp_Header[150];$/;"	kind:v	line:35
+resp_Header	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\taskFlyport.c	/^char resp_Body[150], resp_Header[150];$/;"	kind:v	line:35
+resp_code	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\taskFlyport.c	/^int resp_code = 0;$/;"	kind:v	line:33
+ret	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\analog_in-pro.c	/^	int ret = ADCVal(self->inter->port->Pin1);$/;"	kind:l	line:89
+ret	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\digital_io-pro.c	/^	int ret = IOGet(self->inter->port->Pin1);$/;"	kind:l	line:150
+seconds	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\taskFlyport.c	/^int seconds = 10; \/\/1800$/;"	kind:v	line:40
+security	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\HTTPApp.c	/^static BYTE security;$/;"	kind:v	line:47	file:
+self	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\analog_in-pro.c	/^	struct An_i *self = _self;$/;"	kind:l	line:62
+self	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\analog_in-pro.c	/^	struct An_i *self = _self;$/;"	kind:l	line:88
+self	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\digital_io-pro.c	/^	struct Dig_io *self = _self;$/;"	kind:l	line:119
+self	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\digital_io-pro.c	/^	struct Dig_io *self = _self;$/;"	kind:l	line:149
+self	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\digital_io-pro.c	/^	struct Dig_io *self = _self;$/;"	kind:l	line:67
+self	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\groveboard-pro.c	/^	struct Board *self = _board;$/;"	kind:l	line:163
+self	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\groveboard-pro.c	/^	struct Board *self = _board;$/;"	kind:l	line:201
+self	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\groveboard-pro.c	/^	struct Board *self = _board;$/;"	kind:l	line:259
+self	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\groveboard-pro.c	/^	struct Board *self = _board;$/;"	kind:l	line:306
+self	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\groveboard-pro.c	/^	struct Board *self = _self;$/;"	kind:l	line:150
+self	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\grovelib-pro.c	/^	struct SensorClass **self = _self;$/;"	kind:l	line:81
+self	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\sonic_ranger.c	/^	struct Ranger *self = _self;$/;"	kind:l	line:101
+self	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\sonic_ranger.c	/^	struct Ranger *self = _self;$/;"	kind:l	line:154
+self	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\sonic_ranger.c	/^	struct Ranger *self = _self;$/;"	kind:l	line:169
+sen	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\grovelib-pro.c	/^	const struct SensorClass **sen = sensor;$/;"	kind:l	line:98
+sensor	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\analog_in-pro.c	/^	struct An_i *sensor = _sensor;$/;"	kind:l	line:69
+sensor	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\analog_in-pro.c	/^	struct An_i *sensor = _sensor;$/;"	kind:l	line:79
+sensor	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\digital_io-pro.c	/^	struct Dig_io *sensor = _sensor;$/;"	kind:l	line:108
+sensor	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\digital_io-pro.c	/^	struct Dig_io *sensor = _sensor;$/;"	kind:l	line:92
+sensor	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\sonic_ranger.c	/^	struct Ranger *sensor = _sensor;$/;"	kind:l	line:114
+sensor	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\sonic_ranger.c	/^	struct Ranger *sensor = _sensor;$/;"	kind:l	line:137
+set	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\grovelib-pro.h	/^int set(void *,...);$/;"	kind:p	line:64
+set	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\grovelib-pro.c	/^int set(void *self,...)$/;"	kind:f	line:121
+set_	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\grovelib-pro.h	/^	int (*set_)(void *,va_list *);$/;"	kind:m	line:75	struct:SensorClass	access:public
+set_register	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\i2c_devices-pro.c	/^int set_register(BYTE address,BYTE regist, BYTE data)$/;"	kind:f	line:51
+size	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\grovelib-pro.h	/^	size_t size; $/;"	kind:m	line:70	struct:SensorClass	access:public
+size	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\grovelib-pro.h	/^	size_t size; $/;"	kind:m	line:81	struct:BoardClass	access:public
+speed	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\groveboard-pro.h	/^	int speed;$/;"	kind:m	line:88	struct:Interface	access:public
+start	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\grovelib-pro.h	/^	void (*start) (const void *);$/;"	kind:m	line:85	struct:BoardClass	access:public
+starttime	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\taskFlyport.c	/^DWORD starttime = 0, time = 0;$/;"	kind:v	line:30
+state	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\digital_io-pro.c	/^	BYTE state = va_arg(*app, const BYTE);$/;"	kind:l	line:120
+state	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\taskFlyport.c	/^unsigned char state;$/;"	kind:v	line:27
+state_machine	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\taskFlyport.c	/^void state_machine()$/;"	kind:f	line:169
+state_machine	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\taskFlyport.c	/^void state_machine();$/;"	kind:p	line:24	file:
+time	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\sonic_ranger.c	/^	unsigned int time= 0;$/;"	kind:l	line:84
+time	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\taskFlyport.c	/^DWORD starttime = 0, time = 0;$/;"	kind:v	line:30
+timeout	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\input_capture.c	/^	unsigned int timeout = TIMEOUT;$/;"	kind:l	line:405
+timeout	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\input_capture.c	/^	unsigned long timeout = ((unsigned long)time) * 500;\/\/timeout$/;"	kind:l	line:307
+timeout	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\taskFlyport.c	/^int timeout = 0; $/;"	kind:v	line:32
+timer_32bit	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\input_capture.c	/^	unsigned long timer_32bit;$/;"	kind:l	line:153
+timer_32bit	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\input_capture.c	/^	unsigned long timer_32bit;$/;"	kind:l	line:173
+timer_32bit	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\input_capture.c	/^	unsigned long timer_32bit;$/;"	kind:l	line:193
+type	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\digital_io-pro.c	/^	BYTE type;$/;"	kind:m	line:58	struct:Dig_io	file:	access:public
+uSD_CD	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\groveboard-pro.h	70;"	kind:d	line:70
+uSD_CS	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\groveboard-pro.h	69;"	kind:d	line:69
+uSD_MISO	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\groveboard-pro.h	67;"	kind:d	line:67
+uSD_MOSI	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\groveboard-pro.h	68;"	kind:d	line:68
+uSD_SCK	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\Include\groveboard-pro.h	66;"	kind:d	line:66
+uartnext	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\groveboard-pro.c	/^	struct Interface *uartnext;$/;"	kind:m	line:103	struct:Board	typeref:struct:Board::Interface	file:	access:public
+uartstart	C:\Users\Stefano\Desktop\HACK_-_A_stretching_alarm\Libs\ExternalLib\groveboard-pro.c	/^	struct Interface *uartstart;$/;"	kind:m	line:102	struct:Board	typeref:struct:Board::Interface	file:	access:public
