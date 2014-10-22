@@ -37,8 +37,8 @@ char cusHeader[200];
 char cusPath[100];
 int len = 0;
 
-int seconds = 1800;
-int afterseconds = 300;
+int seconds = 1500;// 1500;
+int afterseconds = 300;// 300;
 
 void *ranger;
 
@@ -197,10 +197,10 @@ void state_machine()
 					vTaskDelay(20);
 					_dbgwrite(".");
 					timeout++;
-					if(timeout >= 25)
+					if(timeout >= 50)
 						break;
 				}
-				if(timeout >= 25)
+				if(timeout >= 50)
 				{
 					TCPClientClose(XivelyClient);
 					_dbgwrite("ERROR\r\n");
@@ -208,7 +208,7 @@ void state_machine()
 				else
 				{
 					sprintf(myData, "{\"version\":\"1.0.0\",\"datastreams\":[{\"id\":\"Alarm\",\"current_value\":\"0\"}]}");
-					resp_code = HTTP_Put(XivelyClient, XivelyServer, cusPath, cusHeader, myData, resp_Header, 100, resp_Body, 100, 700);						
+					resp_code = HTTP_Put(XivelyClient, XivelyServer, cusPath, cusHeader, myData, resp_Header, 100, resp_Body, 100, 1500);						
 					if(resp_code == 200)
 					{
 						_dbgwrite("HTTP request OK\r\n");
@@ -235,7 +235,8 @@ void state_machine()
 			}
 		break;
 		case TRIGGER:
-			blink(3);
+			PWMInit(1,2,50);
+			PWMOn(LED2_Pin,1);
 			XivelyClient = TCPClientOpen(XivelyServer, XivelyPort);
 			timeout = 0;
 			//	Waiting for timeout
@@ -244,10 +245,10 @@ void state_machine()
 				vTaskDelay(20);
 				_dbgwrite(".");
 				timeout++;
-				if(timeout >= 25)
+				if(timeout >= 50)
 					break;
 			}
-			if(timeout >= 25)
+			if(timeout >= 50)
 			{
 				TCPClientClose(XivelyClient);
 				_dbgwrite("ERROR\r\n");
@@ -255,7 +256,7 @@ void state_machine()
 			else
 			{
 				sprintf(myData, "{\"version\":\"1.0.0\",\"datastreams\":[{\"id\":\"Alarm\",\"current_value\":\"0\"}]}");
-				resp_code = HTTP_Put(XivelyClient, XivelyServer, cusPath, cusHeader, myData, resp_Header, 100, resp_Body, 100, 700);						
+				resp_code = HTTP_Put(XivelyClient, XivelyServer, cusPath, cusHeader, myData, resp_Header, 100, resp_Body, 100, 1500);						
 				if(resp_code == 200)
 				{
 					_dbgwrite("HTTP request OK\r\n");
@@ -265,19 +266,19 @@ void state_machine()
 					_dbgwrite("HTTP request ERROR\r\n");
 				TCPClientClose(XivelyClient);
 			}
-			vTaskDelay(50);
+			vTaskDelay(100);
 			XivelyClient = TCPClientOpen(XivelyServer, XivelyPort);
 			timeout = 0;
 			//	Waiting for timeout
 			while(!TCPisConn(XivelyClient))
 			{
-				vTaskDelay(20);
+				vTaskDelay(25);
 				_dbgwrite(".");
 				timeout++;
-				if(timeout >= 25)
+				if(timeout >= 50)
 					break;
 			}
-			if(timeout >= 25)
+			if(timeout >= 50)
 			{
 				TCPClientClose(XivelyClient);
 				_dbgwrite("ERROR\r\n");
@@ -285,7 +286,7 @@ void state_machine()
 			else
 			{
 				sprintf(myData, "{\"version\":\"1.0.0\",\"datastreams\":[{\"id\":\"Alarm\",\"current_value\":\"1\"}]}");
-				resp_code = HTTP_Put(XivelyClient, XivelyServer, cusPath, cusHeader, myData, resp_Header, 100, resp_Body, 100, 700);						
+				resp_code = HTTP_Put(XivelyClient, XivelyServer, cusPath, cusHeader, myData, resp_Header, 100, resp_Body, 100, 1500);						
 				if(resp_code == 200)
 				{
 					_dbgwrite("HTTP request OK\r\n");
@@ -297,8 +298,6 @@ void state_machine()
 			}
 		break;
 		case TRIGGERED:
-			PWMInit(1,2,50);
-			PWMOn(LED2_Pin,1);
 			starttime=TickGetDiv64K();
 			time = 0;
 			while(!(((float)time-(float)starttime)>afterseconds && ((float)time-(float)starttime)>0))
@@ -325,10 +324,10 @@ void state_machine()
 				vTaskDelay(20);
 				_dbgwrite(".");
 				timeout++;
-				if(timeout >= 25)
+				if(timeout >= 50)
 					break;
 			}
-			if(timeout >= 25)
+			if(timeout >= 50)
 			{
 				TCPClientClose(XivelyClient);
 				_dbgwrite("ERROR\r\n");
@@ -336,17 +335,14 @@ void state_machine()
 			else
 			{
 				sprintf(myData, "{\"version\":\"1.0.0\",\"datastreams\":[{\"id\":\"Alarm\",\"current_value\":\"1\"}]}");
-				resp_code = HTTP_Put(XivelyClient, XivelyServer, cusPath, cusHeader, myData, resp_Header, 100, resp_Body, 100, 700);						
+				resp_code = HTTP_Put(XivelyClient, XivelyServer, cusPath, cusHeader, myData, resp_Header, 100, resp_Body, 100, 1500);						
 				if(resp_code == 200)
-				{
 					_dbgwrite("HTTP request OK\r\n");
-					state = TRIGGERED;
-				}
 				else
 					_dbgwrite("HTTP request ERROR\r\n");
 				TCPClientClose(XivelyClient);
 			}
-			vTaskDelay(50);
+			vTaskDelay(100);
 			XivelyClient = TCPClientOpen(XivelyServer, XivelyPort);
 			timeout = 0;
 			//	Waiting for timeout
@@ -355,10 +351,10 @@ void state_machine()
 				vTaskDelay(20);
 				_dbgwrite(".");
 				timeout++;
-				if(timeout >= 25)
+				if(timeout >= 50)
 					break;
 			}
-			if(timeout >= 25)
+			if(timeout >= 50)
 			{
 				TCPClientClose(XivelyClient);
 				_dbgwrite("ERROR\r\n");
@@ -366,7 +362,7 @@ void state_machine()
 			else
 			{
 				sprintf(myData, "{\"version\":\"1.0.0\",\"datastreams\":[{\"id\":\"Alarm\",\"current_value\":\"0\"}]}");
-				resp_code = HTTP_Put(XivelyClient, XivelyServer, cusPath, cusHeader, myData, resp_Header, 100, resp_Body, 100, 700);						
+				resp_code = HTTP_Put(XivelyClient, XivelyServer, cusPath, cusHeader, myData, resp_Header, 100, resp_Body, 100, 1500);						
 				if(resp_code == 200)
 				{
 					_dbgwrite("HTTP request OK\r\n");
@@ -380,7 +376,7 @@ void state_machine()
 			state = STOP;
 		break;
 		case STOP:
-			state = IDLE;
+			state = ACTIVE;
 		break;
 		default:
 		break;

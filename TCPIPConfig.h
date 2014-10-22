@@ -238,7 +238,7 @@
  */
 	// Allocate how much total RAM (in bytes) you want to allocate
 	// for use by your TCP TCBs, RX FIFOs, and TX FIFOs.
-	#define TCP_ETH_RAM_SIZE					(7792ul)
+	#define TCP_ETH_RAM_SIZE					(7992ul)
 	#define TCP_PIC_RAM_SIZE					(0ul)
 	#define TCP_SPI_RAM_SIZE					(0ul)
 	#define TCP_SPI_RAM_BASE_ADDRESS			(0x00)
@@ -281,7 +281,7 @@
 			WORD wRXBufferSize;
 		} TCPSocketInitializer[] = 
 		{
-{TCP_PURPOSE_GENERIC_TCP_CLIENT, TCP_ETH_RAM, 800, 800},
+{TCP_PURPOSE_GENERIC_TCP_CLIENT, TCP_ETH_RAM, 1000, 800},
 			//{TCP_PURPOSE_TELNET, TCP_ETH_RAM, 200, 150},
 			//{TCP_PURPOSE_TCP_PERFORMANCE_TX, TCP_ETH_RAM, 200, 1},
 			//{TCP_PURPOSE_TCP_PERFORMANCE_RX, TCP_ETH_RAM, 40, 1500},
